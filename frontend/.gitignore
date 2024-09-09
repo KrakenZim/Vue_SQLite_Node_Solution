@@ -1,0 +1,13 @@
+# Vue.js
+node_modules/
+dist/
+*.log
+*.env
+
+# IDE files
+.idea/
+.vscode/
+
+# OS specific files
+.DS_Store
+Thumbs.db
